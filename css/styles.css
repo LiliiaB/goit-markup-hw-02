@@ -1,0 +1,125 @@
+
+body {
+    font-family: 'Roboto', 'Raleway', sans-serif;
+    color:#434455;
+    background-color:#FFF;
+    letter-spacing: 0.02em;
+}
+
+ul {
+    list-style-type: none; 
+}
+
+.nav-menu-logo {
+  font-family:'Raleway', sans-serif;  
+  text-decoration: none;  
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  }
+
+.nav-menu-logo:hover,
+.nav-menu-logo:active {
+    color: #404BBF;  
+    }
+
+.nav-menu-item {
+    text-decoration: none;  
+    color: #434455; 
+ }
+ 
+.nav-menu-item:active,
+.nav-menu-item:hover
+ {
+    color: #404BBF;   
+}
+
+.site-contacts-item {
+    text-decoration: none;  
+    color: #434455; 
+}
+
+.site-contacts-item:hover,
+.site-contacts-item:focus {
+    color: #404bbf;
+}
+
+.section-main {
+    background-color: #2E2F42;
+    color:#FFF;
+}
+
+.section-main-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+button {
+    background-color: #4D5AE5;
+    cursor: pointer;
+    color:#FFF; 
+} 
+
+button:hover { 
+    background-color: #404bbf;
+}
+.section-strength
+{ 
+    line-height:1.5;
+    letter-spacing: 0.02em;
+}
+.section-strength-title {
+    font-size: 20px;
+    font-weight: 700;
+   }
+
+.section-strength-text {
+    font-size: 16px;
+    font-weight: 400;
+   }
+
+.section-team { 
+    line-height:1.5;
+    letter-spacing: 0.02em;
+    background-color: #F4F4FD;
+}
+.section-team-title {
+    font-size: 36px;
+    font-weight: 700;
+ }
+
+.section-team-subtitle {
+    font-size: 20px;
+    font-weight: 500;
+  }
+.section-team-text {
+    font-size: 16px;
+    font-weight: 400;
+  }
+    
+.section-portfolio-title {
+    font-size: 36px;
+    font-weight: 700;
+}
+.section-portfolio-subtitle {
+    font-size: 20px;
+    font-weight: 500;
+}
+.section-portfolio-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.bottom-section {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.footer-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
