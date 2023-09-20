@@ -97,6 +97,7 @@ button:focus {
 .section-strength-text {
     font-size: 16px;
     font-weight: 400;
+    line-height:1.5;
    }
 
 .section-team { 
@@ -107,11 +108,22 @@ button:focus {
 .section-team-title {
     font-size: 36px;
     font-weight: 700;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
  }
+ .section-team-list {
+    background-color: #FFFFFF;
+     }
 
 .section-team-subtitle {
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
   }
 .section-team-text {
     font-size: 16px;
@@ -121,14 +133,26 @@ button:focus {
 .section-portfolio-title {
     font-size: 36px;
     font-weight: 700;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 .section-portfolio-subtitle {
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 .section-portfolio-text {
     font-size: 16px;
     font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+
 }
 
 .bottom-section {
